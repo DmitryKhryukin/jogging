@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JoggingTracker.Api", "JoggingTracker.Api\JoggingTracker.Api.csproj", "{173D4DB0-C6AE-43C6-ACD6-B6094FD27528}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JoggingTracker.Api.Tests", "JoggingTracker.Api.Tests\JoggingTracker.Api.Tests.csproj", "{13EDFA44-CA86-4AC5-A5BD-C63BC0D6F973}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JoggingTracker.DataAccess", "JoggingTracker.DataAccess\JoggingTracker.DataAccess.csproj", "{B0AE3C26-9943-49FF-A786-7EBF891A69E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JoggingTracker.Core", "JoggingTracker.Core\JoggingTracker.Core.csproj", "{12532FF8-D812-477E-9FBA-B6BE9C398263}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JoggingTracker.Core.Tests", "JoggingTracker.Core.Tests\JoggingTracker.Core.Tests.csproj", "{CC380917-34AE-4A24-9C2C-57274D9D2344}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{173D4DB0-C6AE-43C6-ACD6-B6094FD27528}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{173D4DB0-C6AE-43C6-ACD6-B6094FD27528}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{173D4DB0-C6AE-43C6-ACD6-B6094FD27528}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{173D4DB0-C6AE-43C6-ACD6-B6094FD27528}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13EDFA44-CA86-4AC5-A5BD-C63BC0D6F973}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13EDFA44-CA86-4AC5-A5BD-C63BC0D6F973}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13EDFA44-CA86-4AC5-A5BD-C63BC0D6F973}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13EDFA44-CA86-4AC5-A5BD-C63BC0D6F973}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0AE3C26-9943-49FF-A786-7EBF891A69E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0AE3C26-9943-49FF-A786-7EBF891A69E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0AE3C26-9943-49FF-A786-7EBF891A69E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0AE3C26-9943-49FF-A786-7EBF891A69E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12532FF8-D812-477E-9FBA-B6BE9C398263}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12532FF8-D812-477E-9FBA-B6BE9C398263}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12532FF8-D812-477E-9FBA-B6BE9C398263}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12532FF8-D812-477E-9FBA-B6BE9C398263}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC380917-34AE-4A24-9C2C-57274D9D2344}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC380917-34AE-4A24-9C2C-57274D9D2344}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC380917-34AE-4A24-9C2C-57274D9D2344}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC380917-34AE-4A24-9C2C-57274D9D2344}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
